@@ -1,0 +1,17 @@
+.large {
+  font-size: 30px;
+  background-color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+.bg-red {
+  background-color: red;
+  display: inline;
+}
+.bg-blue {
+  background-color: blue;
+  display: block;
+}
