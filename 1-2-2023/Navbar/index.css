@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  background-color: black;
+  height: 90px;
+  justify-content: center;
+  align-items: center;
+}
+.links li {
+  margin: 0px 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
