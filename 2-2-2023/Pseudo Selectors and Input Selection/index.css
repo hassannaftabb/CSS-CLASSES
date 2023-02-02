@@ -1,0 +1,26 @@
+.link {
+  text-decoration: none;
+  color: black;
+  border: 2px solid black;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.link:hover {
+  background-color: gray;
+}
+
+.link:visited {
+  color: red;
+}
+
+.link:active {
+  background-color: aqua;
+}
+
+input[type='email'] {
+  border: 2px solid red;
+}
+input[type='number'] {
+  color: blue;
+}
